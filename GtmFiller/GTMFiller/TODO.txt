@@ -1,0 +1,2 @@
+﻿1 Close chrome drive when applicaiton exits
+When week not changed program name set no need
